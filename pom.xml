@@ -10,7 +10,7 @@
     <name>kafka-solr-sink-connector</name>
 
     <properties>
-        <kafka.version>6.0.0-ce</kafka.version>
+        <kafka.version>6.0.1-ce</kafka.version>
         <junit.version>4.13.1</junit.version>
     </properties>
 
